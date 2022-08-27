@@ -33,7 +33,7 @@ const Slide = () => {
           <SidebarHeader >
           <div className="logotext">
               {/* small and big change using menucollapse state */}
-              <p>{menuCollapse ? "Logo" : "Big Logo" }</p>
+              <p>{menuCollapse ? "jk" : "JK" }</p>
             </div>
             <div className="closemenu leading-10 z-[9999] cursor-pointer rounded-md text-[22px] m-4  p-1 " 
             onClick={menuIconClick}>
