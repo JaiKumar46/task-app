@@ -25,3 +25,23 @@ p,span,label,input{
   color: white;
   font-family: 'Aboreto', cursive;
 }
+
+button {
+  height: 60px;
+  width: 300px;
+  font-size: 22px;
+  background-color: #FBB666;
+  border: 1px solid #4b5763;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin-bottom: 4px;
+}
+
+#doc-link {
+  position: fixed;
+  bottom: 2px;
+  right: 10px;
+  font-size: 20px;
+  color: #fff;
+}

@@ -25,9 +25,9 @@ const Slide = () => {
   };
 
   return (
-    <div className="relative right-[27rem]">
+    <div className="relative right-[27rem] w-[50rem]">
         <>
-      <div id="header" className="h-[38rem] relative top-7 w-[220px] shadow-lg">
+      <div id="header" className="h-[38rem] static relative top-7 w-[220px] shadow-lg">
         
         <ProSidebar collapsed={menuCollapse} className="h-screen">
           <SidebarHeader >
