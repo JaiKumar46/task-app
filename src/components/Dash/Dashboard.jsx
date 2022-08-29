@@ -1,5 +1,6 @@
 import React from 'react'
 import Croping from '../../Pages/Camera/Croping'
+import ProfileDetails from '../ProfileDetails/ProfileDetails'
 import Slide from '../Slide/Slide'
 
 const Dashboard = () => {
@@ -7,6 +8,7 @@ const Dashboard = () => {
     <div>
         <Slide/>
       <Croping/>
+      <ProfileDetails/>
     </div>
   )
 }

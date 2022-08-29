@@ -25,7 +25,7 @@ const Slide = () => {
   };
 
   return (
-    <div className="relative right-[27rem] w-[50rem]">
+    <div className="relative right-[25rem] w-[50rem] top-20">
         <>
       <div id="header" className="h-[38rem] static relative top-7 w-[220px] shadow-lg">
         
